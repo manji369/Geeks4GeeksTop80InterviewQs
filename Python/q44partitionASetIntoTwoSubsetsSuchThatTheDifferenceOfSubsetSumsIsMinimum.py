@@ -17,6 +17,22 @@ Subset2 = {11}, sum of Subset2 = 11
 
 # DP solution:
 def findMinPartitionDP(arr):
+    sm = sum(arr); n = len(arr)
+    dp = [[0]*(sm+1) for x in range(n+1)]
+    for i in range(n+1):
+        dp[i][0] = True
+    for j in range(1, sm+1):
+        dp[0][j] = False
+    for i in range(1, n+1):
+        for j in range(1, sm+1):
+            dp[i][j] = dp[i-1][j]
+            if arr[i-1] <= j:
+                dp[i][j] |= dp[i-1][j-arr[i-1]]
+    for j in range(sm//2, -1, -1):
+        if dp[n][j]:
+            return sm-2*j
+    return sm
+
 
 
 # Recursive solution:
@@ -31,4 +47,5 @@ def findMinPartitionRec(arr):
 
 
 
-print(findMinPartitionRec([1, 6, 11, 5]))
+print(findMinPartitionRec([3, 1, 4, 2, 2, 1]))
+print(findMinPartitionDP([3, 1, 4, 2, 2, 1]))

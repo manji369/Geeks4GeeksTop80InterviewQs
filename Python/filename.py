@@ -1,5 +1,5 @@
 import re
-heading = "Q44Partition a set into two subsets such that the difference of subset sums is minimum"
+heading = "Q47Subset Sum Problem"
 heading = re.sub(r'\W\s+', '', heading)
 heading = heading.split(' ')
 heading[0] = heading[0].lower()
