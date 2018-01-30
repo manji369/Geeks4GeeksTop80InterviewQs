@@ -1,5 +1,5 @@
 import re
-heading = "Q52Depth First Traversal or DFS for a Graph"
+heading = "Q63Compare two strings represented as linked lists"
 heading = re.sub(r'\W\s+', '', heading)
 heading = heading.split(' ')
 heading[0] = heading[0].lower()
