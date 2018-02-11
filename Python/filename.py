@@ -1,5 +1,5 @@
 import re
-heading = "Q63Compare two strings represented as linked lists"
+heading = "Q82Trie | (Insert and Search)"
 heading = re.sub(r'\W\s+', '', heading)
 heading = heading.split(' ')
 heading[0] = heading[0].lower()

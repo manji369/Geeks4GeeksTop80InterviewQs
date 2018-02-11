@@ -8,3 +8,8 @@ class singlyConnectedNode:
     def __init__(self, val):
         self.data = val
         self.next = None
+
+class TrieNode:
+    def __init__(self):
+        self.children = {}
+        self.isWordEnd = False
