@@ -17,8 +17,9 @@ Questions:
 10. <a target="_blank" href="https://www.geeksforgeeks.org/bridge-in-a-graph/">Bridges in a Graph</a>
 
 Extra:
-11. ~~<a target="_blank" href="https://www.geeksforgeeks.org/?p=18516">Detect Cycle in a Directed Graph</a>~~
-12. ~~<a target="_blank" href="https://www.geeksforgeeks.org/trie-insert-and-search/">Trie | (Insert and Search)</a>~~
+
+81. ~~<a target="_blank" href="https://www.geeksforgeeks.org/?p=18516">Detect Cycle in a Directed Graph</a>~~
+82. ~~<a target="_blank" href="https://www.geeksforgeeks.org/trie-insert-and-search/">Trie | (Insert and Search)</a>~~
 
 
 ## Linked List
@@ -31,8 +32,12 @@ Extra:
 6. ~~<a target="_blank" href="https://www.geeksforgeeks.org/reverse-a-list-in-groups-of-given-size/">Reverse A List In Groups Of Given Size</a>~~
 7. ~~<a target="_blank" href="https://www.geeksforgeeks.org/union-and-intersection-of-two-linked-lists/">Union And Intersection Of 2 Linked Lists</a>~~
 8. ~~<a target="_blank" href="https://www.geeksforgeeks.org/detect-and-remove-loop-in-a-linked-list/">Detect And Remove Loop In A Linked List</a>~~
-9. <a target="_blank" href="https://www.geeksforgeeks.org/merge-sort-for-linked-list/">Merge Sort For Linked Lists</a>
-10. <a target="_blank" href="https://www.geeksforgeeks.org/select-a-random-node-from-a-singly-linked-list/">Select A Random Node from A Singly Linked List</a>
+9. ~~<a target="_blank" href="https://www.geeksforgeeks.org/merge-sort-for-linked-list/">Merge Sort For Linked Lists</a>~~
+10. ~~<a target="_blank" href="https://www.geeksforgeeks.org/select-a-random-node-from-a-singly-linked-list/">Select A Random Node from A Singly Linked List</a>~~
+
+Extra:
+
+83. ~~<a target="_blank" href="https://www.geeksforgeeks.org/?p=3622">Merge two sorted linked lists</a>~~
 
 
 ## Dynamic Programming

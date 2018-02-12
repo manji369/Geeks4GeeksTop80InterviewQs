@@ -1,5 +1,5 @@
 import re
-heading = "Q68Detect and Remove Loop in a Linked List"
+heading = "Q70Select a Random Node from a Singly Linked List"
 heading = re.sub(r'\W\s+', '', heading)
 heading = heading.split(' ')
 heading[0] = heading[0].lower()
