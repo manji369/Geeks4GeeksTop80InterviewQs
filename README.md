@@ -25,11 +25,11 @@ Extra:
 1. ~~<a target="_blank" href="https://www.geeksforgeeks.org/given-a-linked-list-which-is-sorted-how-will-you-insert-in-sorted-way/">Insertion of a node in Linked List (On the basis of some constraints)</a>~~
 2. ~~<a target="_blank" href="https://www.geeksforgeeks.org/delete-a-given-node-in-linked-list-under-given-constraints/">Delete a given node in Linked List (under given constraints)</a>~~
 3. ~~<a target="_blank" href="https://www.geeksforgeeks.org/compare-two-strings-represented-as-linked-lists/">Compare two strings represented as linked lists</a>~~
-4. <a target="_blank" href="https://www.geeksforgeeks.org/sum-of-two-linked-lists/">Add Two Numbers Represented By Linked Lists</a>
-5. <a target="_blank" href="https://www.geeksforgeeks.org/merge-a-linked-list-into-another-linked-list-at-alternate-positions/">Merge A Linked List Into Another Linked List At Alternate Positions</a>
-6. <a target="_blank" href="https://www.geeksforgeeks.org/reverse-a-list-in-groups-of-given-size/">Reverse A List In Groups Of Given Size</a>
-7. <a target="_blank" href="https://www.geeksforgeeks.org/union-and-intersection-of-two-linked-lists/">Union And Intersection Of 2 Linked Lists</a>
-8. <a target="_blank" href="https://www.geeksforgeeks.org/detect-and-remove-loop-in-a-linked-list/">Detect And Remove Loop In A Linked List</a>
+4. ~~<a target="_blank" href="https://www.geeksforgeeks.org/sum-of-two-linked-lists/">Add Two Numbers Represented By Linked Lists</a>~~
+5. ~~<a target="_blank" href="https://www.geeksforgeeks.org/merge-a-linked-list-into-another-linked-list-at-alternate-positions/">Merge A Linked List Into Another Linked List At Alternate Positions</a>~~
+6. ~~<a target="_blank" href="https://www.geeksforgeeks.org/reverse-a-list-in-groups-of-given-size/">Reverse A List In Groups Of Given Size</a>~~
+7. ~~<a target="_blank" href="https://www.geeksforgeeks.org/union-and-intersection-of-two-linked-lists/">Union And Intersection Of 2 Linked Lists</a>~~
+8. ~~<a target="_blank" href="https://www.geeksforgeeks.org/detect-and-remove-loop-in-a-linked-list/">Detect And Remove Loop In A Linked List</a>~~
 9. <a target="_blank" href="https://www.geeksforgeeks.org/merge-sort-for-linked-list/">Merge Sort For Linked Lists</a>
 10. <a target="_blank" href="https://www.geeksforgeeks.org/select-a-random-node-from-a-singly-linked-list/">Select A Random Node from A Singly Linked List</a>
 

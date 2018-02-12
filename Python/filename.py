@@ -1,5 +1,5 @@
 import re
-heading = "Q82Trie | (Insert and Search)"
+heading = "Q68Detect and Remove Loop in a Linked List"
 heading = re.sub(r'\W\s+', '', heading)
 heading = heading.split(' ')
 heading[0] = heading[0].lower()
